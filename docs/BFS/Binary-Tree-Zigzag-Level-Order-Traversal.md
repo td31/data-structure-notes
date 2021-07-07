@@ -16,6 +16,9 @@ class TreeNode:
         self.left = left
         self.right = right
 
+    def __repr__(self):
+      return str(self.val)
+
 class Solution:
     def zigzagLevelOrder(self, root):
         if not root:
@@ -54,7 +57,7 @@ class Solution:
 
 root = TreeNode(3, TreeNode(9), TreeNode(20, TreeNode(15), TreeNode(7)))
 
-p1 = Solution(root)
+p1 = Solution()
 print(p1.zigzagLevelOrder(root))
 
 ```
