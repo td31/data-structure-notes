@@ -6,9 +6,6 @@ sidebar_position: 2
 
 **[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)**
 
-Solution:
-- Non optimal
-
 ```python title="Output: 2->1->4->3->5"
 class ListNode:
     def __init__(self, val=0, next=None):
