@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  // favicon: 'img/favicon.ico',
   organizationName: 'td31',
   projectName: 'Data-Structure-Notes',
   themeConfig: {
@@ -15,10 +15,10 @@ module.exports = {
     },
     navbar: {
       title: 'tdar.dev',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'My Site Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         {
           type: 'doc',
