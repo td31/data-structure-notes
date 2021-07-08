@@ -1,5 +1,3 @@
-/* stylelint-disable docusaurus/copyright-header */
-
 .features {
   display: flex;
   align-items: center;
@@ -10,4 +8,9 @@
 .featureSvg {
   height: 200px;
   width: 200px;
+}
+
+.img_homepage {
+  border-radius: 15px;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,.4);
 }
