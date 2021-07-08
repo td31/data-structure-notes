@@ -3,6 +3,6 @@
 Built using [Docusaurus 2](https://docusaurus.io/) with continuous deployment through Cloudflare
 
 
-Added: 6
+Added: 9
 
-Completed but need to add: 46
+Completed but need to add: 43
