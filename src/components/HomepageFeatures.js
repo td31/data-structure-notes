@@ -6,17 +6,17 @@ const FeatureList = [
   {
     title: "Leetcode Easy",
     img_src: "https://i.imgur.com/a1RdvPV.jpg",
-    anchor_tag: "https://www.tdar.dev/docs/Leetcode-Easy/Reverse-Linked-List"
+    anchor_tag: "/docs/Leetcode-Easy/Reverse-Linked-List"
   },
   {
     title: "Leetcode Medium",
     img_src: "https://i.imgur.com/EH0OG4f.jpg",
-    anchor_tag: "https://www.tdar.dev/docs/Leetcode-Medium/Binary-Tree-Zigzag-Level-Order-Traversal"
+    anchor_tag: "/docs/Leetcode-Medium/Binary-Tree-Zigzag-Level-Order-Traversal"
   },
   {
     title: "Leetcode Hard",
     img_src: "https://i.imgur.com/t9yWOdb.jpg",
-    anchor_tag: "https://www.tdar.dev/docs/Leetcode-Hard/Merge-k-Sorted-Lists"
+    anchor_tag: "/docs/Leetcode-Hard/Merge-k-Sorted-Lists"
   },
 ];
 
