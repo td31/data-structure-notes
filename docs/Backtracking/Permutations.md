@@ -7,7 +7,7 @@ sidebar_position: 2
 **[46. Permutations](https://leetcode.com/problems/permutations/)**
 
 Solution:
- - Similar to other backtracking problems.
+- Similar to other backtracking problems.
  - Build every combination where [1] is first, [2] is first etc.
     - Basically the way we do this is iterating over nums, adding the value to the list (path) then removing it from the nums
         - Creates [1] leaves [2,3] -> next -> Creates [1,2] leaves [3] and creates [1,3] leaves [2] -> next -> Creates [1,2,3] leaves [] and creates [1,3,2] leaves []
